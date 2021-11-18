@@ -1,6 +1,6 @@
 # Final Project for AI 2 Cohort 1 for Univ AI under Harvard Professor Pavlos Protopapas
 
-Araz Sharma, Pranav Bajaj, Harsh Vardhan Goyal & Sukriti Paul
+Contributors : Araz Sharma, Pranav Bajaj, Harsh Vardhan Goyal & Sukriti Paul
 
 ## Post Hurricane Damage Assesment Using Convolutional Neural Network
 
